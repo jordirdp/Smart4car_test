@@ -12,7 +12,7 @@ Este código realiza las siguientes funciones simples:
 - Medición de 3 sensores de distancia  
 - Lectura de 2 encoders en motores traseros
   
-![Imagen Smart4car acabado](Smart4car.heic)  
+![Imagen Smart4car acabado](Smart4car.jpeg)  
 
 
 ## Material utilizado
