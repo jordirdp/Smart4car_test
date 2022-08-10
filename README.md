@@ -16,7 +16,7 @@ https://bitbucket.org/teckel12/arduino-new-ping/src/master/
 - LiquidCrystal I2C  
 https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library  
 
-- Servo (incluida en Arduino IDE)
+- Servo (incluida en Arduino IDE)  
 https://github.com/arduino-libraries/Servo
 
 
