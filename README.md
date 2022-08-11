@@ -1,7 +1,7 @@
 # Smart4car_test
 
 Autor: Jordi Rodríguez  
-
+  
 Práctica de programación ordenada en Arduino utilizando pestañas   
 Crearemos un vehículo de 4 ruedas con el material especificado  
 Para la programación usaremos la plataforma Arduino IDE:  
@@ -26,12 +26,13 @@ Este código realiza las siguientes funciones simples:
 - Lectura de 4 sensores de línea  
 - Lectura de 2 encoders en motores traseros  
 - Prueba de motores  
- 
+  
   
 ![Imagen Smart4car acabado](Smart4car.jpeg)  
 
 
 ## Material utilizado
+
 
 - 1 x HC-SR04 = Sensor ultrasonido de distancia  
 - 1 x SG90 = MicroServo 9g  

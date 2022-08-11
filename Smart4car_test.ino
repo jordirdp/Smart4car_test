@@ -56,7 +56,7 @@ void setup() {
 
 
 void loop() {
-/*
+
   // Prueba servo
   lcd.clear();
   lcd.setCursor (0,0);
@@ -110,7 +110,7 @@ void loop() {
     lcd.print(Sensor_RR);
   }
   delay (TiempoEspera);
-*/
+
   // Prueba motores
   lcd.clear();
   lcd.setCursor (0,0);
