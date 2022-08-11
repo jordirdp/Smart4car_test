@@ -1,4 +1,4 @@
-# Smart4car_test
+# Smart4car_test 
 
 Autor: Jordi Rodríguez  
   
@@ -17,7 +17,7 @@ https://bitbucket.org/teckel12/arduino-new-ping/src/master/
 https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library  
 
 - Servo (incluida en Arduino IDE)  
-https://github.com/arduino-libraries/Servo
+https://github.com/arduino-libraries/Servo  
 
 
 Este código realiza las siguientes funciones simples:  
@@ -31,22 +31,22 @@ Este código realiza las siguientes funciones simples:
 ![Imagen Smart4car acabado](Smart4car.jpeg)  
 
 
-## Material utilizado
+## Material utilizado  
 
 
 - 1 x HC-SR04 = Sensor ultrasonido de distancia  
 - 1 x SG90 = MicroServo 9g  
-- 4 x TCRT5000 = Sensor infrarrojo de proximidad
-- LCD I2C = Pantalla lcd
-- L298N = Controlador de motores
-- 4 x Motores Arduino
+- 4 x TCRT5000 = Sensor infrarrojo de proximidad  
+- LCD I2C = Pantalla lcd  
+- L298N = Controlador de motores  
+- 4 x Motores Arduino  
 - 2 x Encoders motores Arduino (alimentados a 3'3v)  
-- Protoboard
+- Protoboard  
   
 
-## Pines de conexion
+## Pines de conexion  
 
-A0 = Servo frontal
+A0 = Servo frontal  
 A1 = Sensor ultrasonido-Echo (HC-SR04)  
 A2 = Sensor ultrasonido-Trigger (HC-SR04)  
 A3 =   
