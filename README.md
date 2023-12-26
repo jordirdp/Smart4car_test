@@ -2,6 +2,8 @@
 🔗Creado por [Jordi Rodriguez](https://github.com/jordirdp)  
 
 👨🏻‍💻Práctica de **programación modular** utilizando pestañas en Arduino  
+
+<img src="/Images/Smart4car.jpeg" width="300"/>  
     
 ### Software  
 - Programado con [Arduino](https://www.arduino.cc/en/software)
@@ -28,8 +30,7 @@
 - Arduino UNO  
 
 ### Montaje  
-![Imagen Smart4car](/Images/Smart4car.jpeg)  
-Conexiones a pines Arduino UNO:  
+🔧 Conexiones a pines Arduino UNO:  
 - A00 = Servo frontal  
 - A01 = Sensor ultrasonido-Echo (HC-SR04)  
 - A02 = Sensor ultrasonido-Trigger (HC-SR04)  
