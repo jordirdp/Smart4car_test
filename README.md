@@ -1,7 +1,7 @@
 # Smart4car_test 
 🔗Creado por [Jordi Rodriguez](https://github.com/jordirdp)  
 
-👨🏻‍💻Práctica de **programación modular** utilizando pestañas en Arduino  
+👨🏻‍💻Práctica de **programación orientada a objetos** utilizando pestañas en Arduino  
 
 <img src="/Images/Smart4car.jpeg" width="300"/>  
     
